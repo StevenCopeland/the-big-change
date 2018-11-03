@@ -1,0 +1,19 @@
+{
+  "name": "the-big-change",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "The biggest and the best syntax theme since jedit-syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "Awesome",
+    "biggest",
+    "best",
+    "change"
+  ],
+  "repository": "https://github.com/StevenCopeland/the-big-change",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
